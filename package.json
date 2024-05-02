@@ -1,0 +1,11 @@
+{
+  "name": "demo-backend",
+  "version": "1.0.0",
+  "description": "start with backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "js,npm,keyur"
+  },
+  "author": "keyur gajera",
+  "license": "ISC"
+}
